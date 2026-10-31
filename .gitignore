@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#General
+DATASLEUTH_CODING_AGENT_PROMPT.md
+DATASLEUTH_IMPLEMENTATION_PLAN.md
+DATASLEUTH_PROJECT_SPEC.md
